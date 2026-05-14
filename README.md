@@ -41,9 +41,7 @@ The forecasting task is a **binary decision**: will an earthquake be followed by
 - Final catalog: **4,724 events**, 19.4% positive (larger follower)
 
 ### Physics‑Informed Feature – Boussinesq Stress Index
-\[
-\Psi = \log_{10}\frac{10^{1.5M + 9.1}}{(d + 1)^2}
-\]
+
 - High for shallow, large earthquakes – those most likely to trigger larger aftershocks
 - Cheap to compute, ignores shear stress and fault orientation but captures first‑order physics
 
